@@ -2,6 +2,19 @@
   color: red;
   background-color: red;
 }
+
+.first-color {
+  color: green !important; 
+
+}
+
+.second-color{}
+
+
+.third-color {
+  color: red !important;
+}
+
 body {
   font-family: "Poppins", sans-serif;
   color: #444444;
