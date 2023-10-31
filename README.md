@@ -1,7 +1,8 @@
 # Landing Page Pizzeria
 
 ## Landing Page
-![image](https://github.com/AmadeuAnjos/padaria/assets/53497771/0afe79ce-a3b0-4add-a69a-3d23ff29559f)
+![image](https://github.com/AmadeuAnjos/landing-page-pizzeria/assets/53497771/e2b679f7-4da6-404e-ab79-1a3772289cf8)
+
 
 
 ## Ideia 
