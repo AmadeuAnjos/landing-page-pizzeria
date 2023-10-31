@@ -136,7 +136,7 @@ h6 {
 # Book a table button Menu
 --------------------------------------------------------------*/
 .book-a-table-btn {
-  background:red;
+  background:green;
   color: #fff;
   border-radius: 50px;
   margin: 0 0 0 20px;
@@ -149,7 +149,7 @@ h6 {
 }
 
 .book-a-table-btn:hover {
-  background: #ffa012;
+  background: red;
   color: #fff;
 }
 
