@@ -1347,8 +1347,9 @@ section {
 }
 
 .testimonials .testimonial-item .stars {
-  color:red;
+  color: #FFFF00;
   margin-bottom: 10px;
+
 }
 
 .testimonials .testimonial-item .quote-icon-left,
