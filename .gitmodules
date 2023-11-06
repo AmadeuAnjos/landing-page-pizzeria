@@ -1,0 +1,3 @@
+[submodule "landing-page-pizzeria"]
+    path = landing-page-pizzeria
+    url = https://github.com/AmadeuAnjos/landing-page-pizzeria.git
