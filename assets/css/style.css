@@ -1443,8 +1443,8 @@ section {
 }
 
 .contact .info:hover i {
-  background:red;
-  color: #fff;
+  color: red;
+  border: 1px solid red;
 }
 
 .contact .php-email-form {
