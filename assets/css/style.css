@@ -528,12 +528,18 @@ h6 {
   color: white;
 }
 
+@media (max-width: 408px) {
+  .carousel-content {
+    margin-top: 150px;
+  }
+}
+
 @media (max-width: 768px) {
   #hero h2 {
     font-size: 28px;
   }
   .carousel-content {
-    margin-top: 50px;
+    margin-top: 100px;
   }
   .carousel-content p{    
     text-align: justify;
@@ -1354,7 +1360,7 @@ section {
 }
 
 .testimonials .testimonial-item .stars {
-  color: whiteF00;
+  color: #FFFF00;
   margin-bottom: 10px;
 
 }
