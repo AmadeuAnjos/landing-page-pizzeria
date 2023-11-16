@@ -82,3 +82,4 @@ Expanding the market of a pizzeria with more than two decades of tradition is an
     - [X] Form for direct contact
 - [X] Footer section
     - [X] Link to footer
+    
